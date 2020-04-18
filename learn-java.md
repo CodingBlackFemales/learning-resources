@@ -10,9 +10,9 @@ What is Java?
 
 ### Java Tutorials
 
-[Tutorials Point](https://www.tutorialspoint.com/java/index.htm)
+* [Tutorials Point](https://www.tutorialspoint.com/java/index.htm)
 
 #### Video Tutorials
 
-[Code With Mosh - Java for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34)
-[freeCodeCamp - Java for Absolute Beginners](https://www.youtube.com/watch?v=GoXwIVyNvX0)
+* [Code With Mosh - Java for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34)
+* [freeCodeCamp - Java for Absolute Beginners](https://www.youtube.com/watch?v=GoXwIVyNvX0)

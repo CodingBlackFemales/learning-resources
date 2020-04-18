@@ -10,7 +10,7 @@ What is Java?
 
 ### Resources to learn Java
 
-[Tutorials Point] (https://www.tutorialspoint.com/java/index.htm)
+[Tutorials Point](https://www.tutorialspoint.com/java/index.htm)
 
 > This is a blockquote.
 > 

@@ -1,1 +1,3 @@
-[Learn Java](learn-java.md)
+* [General Resources](general-resources.md)
+
+* [Learn Java](learn-java.md)
